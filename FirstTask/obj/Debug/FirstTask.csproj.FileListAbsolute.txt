@@ -1,0 +1,6 @@
+C:\Users\asdsa\source\repos\FirstTask\bin\Debug\FirstTask.dll
+C:\Users\asdsa\source\repos\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\asdsa\source\repos\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+C:\Users\asdsa\source\repos\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\asdsa\source\repos\FirstTask\obj\Debug\FirstTask.dll
+C:\Users\asdsa\source\repos\FirstTask\obj\Debug\FirstTask.pdb
