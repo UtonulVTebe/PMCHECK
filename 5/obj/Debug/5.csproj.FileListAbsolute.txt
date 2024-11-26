@@ -1,0 +1,7 @@
+C:\Users\asdsa\source\repos\task 567\bin\Debug\task 567.exe.config
+C:\Users\asdsa\source\repos\task 567\bin\Debug\task 567.exe
+C:\Users\asdsa\source\repos\task 567\bin\Debug\task 567.pdb
+C:\Users\asdsa\source\repos\task 567\obj\Debug\5.csproj.AssemblyReference.cache
+C:\Users\asdsa\source\repos\task 567\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\asdsa\source\repos\task 567\obj\Debug\task 567.exe
+C:\Users\asdsa\source\repos\task 567\obj\Debug\task 567.pdb

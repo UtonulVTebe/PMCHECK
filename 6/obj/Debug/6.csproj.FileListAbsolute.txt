@@ -1,0 +1,7 @@
+C:\Users\asdsa\source\repos\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\Users\asdsa\source\repos\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\Users\asdsa\source\repos\6\bin\Debug\6.exe.config
+C:\Users\asdsa\source\repos\6\bin\Debug\6.exe
+C:\Users\asdsa\source\repos\6\bin\Debug\6.pdb
+C:\Users\asdsa\source\repos\6\obj\Debug\6.exe
+C:\Users\asdsa\source\repos\6\obj\Debug\6.pdb
